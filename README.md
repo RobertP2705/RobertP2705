@@ -6,5 +6,5 @@
 ### contact me through email: prevostrobert309@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertP2705&show_icons=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertP-LCable&show_icons=true)
 
