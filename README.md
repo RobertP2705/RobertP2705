@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi
 
+### uhhh working on algozero right now
+### student at uiuc 4 cs
+### swe at lake
+### contact me through email: prevostrobert309@gmail.com
 <!--
 **RobertP2705/RobertP2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
